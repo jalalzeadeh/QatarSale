@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  QatarSale
+
+  Created by Jalal on 12/18/21.
+  
+*/
+"CATEGORY_LABEL" = "Category";
+"POST_AD_TITLE" = "Post Ad";
+"CHOOSE_CATEGORY_HINT" = "Choose the category";
+"NEXT_BUTTON" = "Next";
+"SEARCH_PLACEHOLDER" = "Search";
+"UPLOAD_IMAGE_HINT" = "Click here to upload pictures";
+"BACK_BUTTON" = "Back";
+"STEP_2_TITLE" = "Pictures";
+"STEP_2_HINT" = "Add product pictures";
+"STEP_2_MESSAGE" = "You can change the cover by clicking on the\n small pictures below";
+"TYPE_SALE" = "Type of sale*";
+"PRICE" = "Price*";
+"STEP_3_TITLE" = "Type";
+"STEP_3_HINT" = "Choose the product type";
+"MARKET_TYPE" = "Market";
+"AUCTION_TYPE" = "Auction";
+"PRICE_PLACEHOLDER" = "Ex.300 Q.R";
+"DURATION_HINT" = "Duration*";
+"ERROR_DURATION_TEXT" = "Please enter brand name.";
+"SELECT_DURATION_PLACEHOLDER" = "Please Select..";
+

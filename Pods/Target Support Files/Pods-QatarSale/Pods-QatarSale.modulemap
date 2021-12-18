@@ -1,0 +1,6 @@
+framework module Pods_QatarSale {
+  umbrella header "Pods-QatarSale-umbrella.h"
+
+  export *
+  module * { export * }
+}
